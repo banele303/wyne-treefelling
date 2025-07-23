@@ -46,7 +46,7 @@ const services = [
     icon: <Flower2 className="h-10 w-10 text-green-600" />,
     title: "Lawn Laying",
     description: "Professional lawn installation with high-quality grass varieties suited to your climate.",
-    image: "hero2.jpeg",
+    image: "/hero2.jpeg",
   },
   {
     icon: <Trash2 className="h-10 w-10 text-green-600" />,
